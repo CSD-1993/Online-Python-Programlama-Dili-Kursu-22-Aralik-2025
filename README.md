@@ -1,4 +1,4 @@
-# Online Python Programlama Dili Kursu 20 Ekim 2025
+# Online Python Programlama Dili Kursu - 20 Ekim 2025
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
 + Kurs __20 Ekim 2025__ tarihinde başlayacaktır.
