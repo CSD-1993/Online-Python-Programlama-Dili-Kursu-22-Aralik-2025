@@ -5,7 +5,7 @@
 
 + Kursun temel özellikleri şöyle betimlenebilir:
 
-+ Bu kurs Python Programlama Dilini ayrıntılı biçimde uygulamalı olarak öğretmeyi hedeflemektedir. Aynı zamanda bu kurs Yapay Zeka ve Makine Öğrenmesi kursu için de bir ön aşama olarak işlev görmektedir.
++ Bu kurs Python Programlama Dilini ayrıntılı biçimde uygulamalı olarak öğretmeyi hedeflemektedir.
 
 + Kurs Yapay Zeka ve Makine Öğrenmesi kursu için bir hazırlık kursu işlevini de görmektedir.
 
