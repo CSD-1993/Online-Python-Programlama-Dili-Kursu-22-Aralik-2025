@@ -10,7 +10,7 @@ Kursun temel özellikleri şöyle betimlenebilir:
 * Kurs __Yapay Zeka ve Makine Öğrenmesi__ kursu için bir hazırlık kursu işlevini de görmektedir. 
 
 ## Ön Koşul
-Bu kurs için katılımcıların temel programlama bilgisine sahip olması gerekmektedir. 
+Daha önce herhangi bir programlama dili ile çalışmış olmak.
 
 ## Eğitim Süresi
 Eğitim Süresi __180__ Saattir.
