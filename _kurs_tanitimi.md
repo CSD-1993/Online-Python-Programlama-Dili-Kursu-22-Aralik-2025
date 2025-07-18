@@ -3,8 +3,6 @@
 
 + Python genel amaçlı, nesne yönelimli, fonksiyonel özellikleri olan, çok modelli ve nispeten kolay öğrenilebilen bir programlama dilidir. Özellikle veri analizinde ve çözümlenmesinde, yapay zeka ve makine öğrenmesinde tercih edilmektedir. Bu özellikleri nedeniyle Python Programlama Dilinin popülaritesi özellikle son yıllarda oldukça artmıştır.
 
-+ Kursun temel özellikleri şöyle betimlenebilir:
-
 + Bu kurs Python Programlama Dilini ayrıntılı biçimde uygulamalı olarak öğretmeyi hedeflemektedir.
 
 + Kurs Yapay Zeka ve Makine Öğrenmesi kursu için bir hazırlık kursu işlevini de görmektedir.
