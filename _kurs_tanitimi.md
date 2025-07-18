@@ -13,7 +13,7 @@ Daha önce herhangi bir programlama dili ile çalışmış olmak.
 
 
 ## Format
-+ Python Programlama Dili Kursu. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla çalışmalar verilmekte ve  bu çalışmaları yapan öğrencilere geri bildirimler verilmektedir.
 
