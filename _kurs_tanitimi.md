@@ -30,7 +30,7 @@ Daha önce herhangi bir programlama dili ile çalışmış olmak.
 
 ## Ders Saatleri
 
-+ Dersler hafta sonu __Pazartesi ve Çarşamba__ günleri saat __11.00 – 15.00__ saatleri arasında __4__’er saat olarak yapılacaktır.
++ Dersler hafta içi __Pazartesi ve Çarşamba__ günleri saat __11.00 – 15.00__ saatleri arasında __4__’er saat olarak yapılacaktır.
 
 ## Kurs Ücreti
 +  Kursumuzun toplam ücreti __KDV dahil 57.500 TL__'dir (Peşin ödemede __50.000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 49.000 TL__'dir (Peşin ödemede __42.000 TL__ ’dir). Kurs ücreti peşin ya da __2 taksit__ olarak ödenebilir.
