@@ -1,7 +1,7 @@
 ## Online Python Programlama Dili Kursu - Genel Tanıtım
 + Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından Sistem Bilgisayar işbirliği ile düzenlenmektedir. Kurs __20 Ekim 2025__ tarihinde başlayacaktır.
 
-+ Python genel amaçlı, nesne yönelimli, fonksiyonel özellikleri olan, çok modelli ve nispeten kolay öğrenilebilen bir programlama dilidir. Özellikle veri analizinde ve çözümlenmesinde, yapay zeka ve makine öğrenmesinde tercih edilmektedir. Bu özellikleri nedeniyle Python Programlama Dilinin popülaritesi özellikle son yıllarda popülaritesi oldukça artmıştır.
++ Python genel amaçlı, nesne yönelimli, fonksiyonel özellikleri olan, çok modelli ve nispeten kolay öğrenilebilen bir programlama dilidir. Özellikle veri analizinde ve çözümlenmesinde, yapay zeka ve makine öğrenmesinde tercih edilmektedir. Bu özellikleri nedeniyle Python Programlama Dilinin popülaritesi özellikle son yıllarda oldukça artmıştır.
 
 + Kursun temel özellikleri şöyle betimlenebilir:
 
